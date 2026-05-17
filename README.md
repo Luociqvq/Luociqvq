@@ -5,7 +5,7 @@
 **Full-Stack Developer | AI Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/Github-Luociqvq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luociqvq)
-[![Email](https://img.shields.io/badge/Email-luociqaq@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
+![Email](https://img.shields.io/badge/Email-luociqaq@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
 
